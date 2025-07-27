@@ -1,0 +1,3 @@
+file5 contents
+
+more stuff for file 5
