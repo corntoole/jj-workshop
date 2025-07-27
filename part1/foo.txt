@@ -3,8 +3,9 @@ Follow the instructions in the Google Slide
 Make some changes to this file.
 
 Maybe fill this out?
+
 * The best operating system is macOS
 * The best text editor is neovim
-* The best kind of phone is _______
-* The best superhero team is ___________
+* The best kind of phone is an iPhone
 * The best superhero is Spider-man
+* The best superhero team is the X-Men
